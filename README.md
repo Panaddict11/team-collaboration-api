@@ -191,6 +191,7 @@ This project is a mini for a team collaboration system, where teams/users can ch
 ### Author
 
 - [Adeleke Joshua](https://github.com/lekejosh)
+- [Pan Addict](https://github.com/Panaddict11)
 
 ### License
 
